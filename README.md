@@ -8,6 +8,6 @@
 
 -🎨 In my free time, I love drawing and photography 📷
 
--🚀 Always learning and open to collaboration on exciting projects!🚀
+-🚀 Always learning and open to colaboration on exciting project🚀
 
 
