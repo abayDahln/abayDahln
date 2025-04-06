@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dueixuonp/image/upload/v1743976368/animation_cur2kg.gif" width="50%" />
+  <img src="https://res.cloudinary.com/dueixuonp/image/upload/v1743978733/animation_coding_jzzq0q.gif" width="50%" />
 </p>
