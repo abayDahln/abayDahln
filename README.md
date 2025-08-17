@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abby Dahlan Havizh</h1>
 <h3 align="center">A young developer who loves to create things from logic and imagination.</h3>
-<p align="left">
+<!-- <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=4AB3F7&width=500&lines=Software+Engineer;Backend+Developer" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
