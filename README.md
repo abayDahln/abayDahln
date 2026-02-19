@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abby Dahlan Havizh</h1>
 <h3 align="center">A young developer who loves to create things from logic and imagination.</h3>
-<!-- <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=4AB3F7&width=500&lines=Software+Engineer;Backend+Developer" alt="Typing SVG" />
-</p> -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
-
-
-
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VirzaPixel&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,17 +59,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abaydahln&show_icons=true&hide_border=true&bg_color=00000000&theme=default" 
-    width="400" 
-    alt="GitHub Stats" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaydahln&layout=compact&hide_border=true&bg_color=00000000&theme=default" 
-    width="340" 
-    alt="Top Languages" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 
