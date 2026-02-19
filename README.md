@@ -36,16 +36,38 @@
 
 ---
 
-### 💻 Tools
+### 💻 My Tech Stack & Tools
 
+#### 🚀 Programming Languages
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/ffffff" height="40" alt="OpenAI"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/google/ffffff" height="40" alt="Gemini"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/ffffff" height="40" alt="Claude"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/alibabacloud/ffffff" height="40" alt="Qwen"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/deepseek/ffffff" height="40" alt="DeepSeek"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" height="40" alt="Copilot"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/ffffff" height="40" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+</p>
+
+#### 🤖 AI Models & Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Qwen-5555FF?style=for-the-badge&logo=alibabacloud&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/DeepSeek-181B20?style=for-the-badge&logo=deepseek&logoColor=61D2A4" height="35"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="35"/>
+</p>
+
+#### 🛠️ IDEs & AI Code Editors
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Cursor-02303A?style=for-the-badge&logo=cursor&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Windsurf-1C1C1C?style=for-the-badge&logo=windsurf&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Trae-000000?style=for-the-badge&logo=trae&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Pear_AI-FF6B6B?style=for-the-badge&logo=pear&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=void&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logo=rocket&logoColor=white" height="35"/>
 </p>
 
 ---
