@@ -40,27 +40,42 @@
 ### 💻 Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #22c55e"/>
+  <!-- GPT -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" 
+       alt="gpt" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #60a5fa"/>
+  <!-- Gemini -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" 
+       alt="gemini" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #f59e0b"/>
+  <!-- Claude -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" 
+       alt="claude" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alibabacloud.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #fb7185"/>
+  <!-- Qwen -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alibabacloud.svg" 
+       alt="qwen" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #a78bfa"/>
+  <!-- DeepSeek -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg" 
+       alt="deepseek" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #22d3ee"/>
+  <!-- Copilot -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" 
+       alt="copilot" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="42"
-       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #f43f5e"/>
+  <!-- Ollama -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" 
+       alt="ollama" width="40" height="40"
+       style="background:#0f172a; padding:8px; border-radius:12px; margin:4px"/>
 </p>
+
 
 
 ---
