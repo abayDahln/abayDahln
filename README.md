@@ -34,35 +34,19 @@
   </a>
 </p>
 
-
 ---
 
 ### 💻 Tools
 
 <p align="left">
-  <!-- OpenAI / GPT -->
-  <img src="https://cdn.simpleicons.org/openai/white" height="40"/>
-
-  <!-- Gemini -->
-  <img src="https://cdn.simpleicons.org/google/white" height="40"/>
-
-  <!-- Claude -->
-  <img src="https://cdn.simpleicons.org/anthropic/white" height="40"/>
-
-  <!-- Qwen -->
-  <img src="https://cdn.simpleicons.org/alibabacloud/white" height="40"/>
-
-  <!-- DeepSeek -->
-  <img src="https://cdn.simpleicons.org/deepseek/white" height="40"/>
-
-  <!-- Copilot -->
-  <img src="https://cdn.simpleicons.org/githubcopilot/white" height="40"/>
-
-  <!-- Ollama -->
-  <img src="https://cdn.simpleicons.org/ollama/white" height="40"/>
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Qwen-5555FF?style=for-the-badge&logo=alibabacloud&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/DeepSeek-181B20?style=for-the-badge&logo=deepseek&logoColor=61D2A4" height="40"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="40"/>
 </p>
-
-
 
 ---
 
