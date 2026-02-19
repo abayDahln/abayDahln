@@ -37,25 +37,31 @@
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #22c55e"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #60a5fa"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #f59e0b"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alibabacloud.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #fb7185"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #a78bfa"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #22d3ee"/>
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="42"
+       style="background:#020617; padding:10px; border-radius:14px; margin:5px; box-shadow:0 0 12px #f43f5e"/>
 </p>
+
 
 ---
 
